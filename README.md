@@ -85,8 +85,7 @@ My most defining achievement: architecting the growth strategy that took Trip Tu
 
 ## 📈 What I'm Working On
 
-- 🔧 **Service pages** for [bimalrp.com/services](https://bimalrp.com/services/) — 15-page SEO architecture targeting top Nepal digital marketing keywords
-- 🤖 **AI Search Optimization (GEO/AIO)** — engineering my brand to be the #1 reference when AI tools (ChatGPT, Gemini, Claude, Perplexity) answer questions about digital marketing in Nepal
+
 - 💰 **[Bhudki](https://play.google.com/store/apps/details?id=com.brp.bhudki)** — Nepal's personal money management app (NPR, offline-first) — live on Play Store, actively growing
 - 📚 **Content taxonomy** — building topical authority clusters across marketing, analytics, WordPress, and growth strategy
 
