@@ -9,8 +9,6 @@
 [![Website](https://img.shields.io/badge/bimalrp.com-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bimalrp.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bimal-raj-paudel/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bimalrajpaudel)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@brpexplains)
-[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/bimal-raj-paudel)
 
 </div>
 
@@ -21,22 +19,17 @@
 I'm **Bimal Raj Paudel** — a self-taught, full-stack **Growth & Digital Strategist** based in **Kathmandu, Nepal**, with **9+ years** operating at the intersection of **data science, technical SEO, and high-conversion marketing**.
 
 I don't just *do marketing* — I **engineer growth systems** that compound over time and turn businesses into category leaders.
-
-My most defining achievement: architecting the growth strategy that took Trip Turbo to **500,000+ downloads** and won the 🏆 **ICT Award 2025 — People's Choice**.
-
-> *"Move Nepali businesses away from boosted posts — toward growth engineering."*
-
 ---
 
 ## 🚀 What I Build
 
 | Project | What It Is | Role |
 |---|---|---|
-| 🌐 **[bimalrp.com](https://bimalrp.com)** | Personal brand HQ — technical SEO masterclass on WordPress (Blocksy + SiteSEO Pro) | Founder & Builder |
-| 📱 **Trip Turbo** | Travel tech app — 500K+ downloads, ICT Award 2025 winner | Lead, Growth & Marketing |
+| 🌐 **[bimalrp.com](https://bimalrp.com)** | Personal brand HQ — technical SEO | Founder & Builder |
 | 🛠️ **[WP Tracer](https://wptracer.com/)** | WordPress tools & resources platform | Founder (2021–Present) |
-| 📓 **The Pro Notes** | Digital marketing knowledge base | Founder (2018–Present) |
+| 📓 **[The Pro Notes](https://thrpronotes.com/)** | Digital marketing knowledge base | Founder (2018–Present) |
 | 💰 **[Bhudki](https://play.google.com/store/apps/details?id=com.brp.bhudki)** | Nepal's personal money management app — track income, expenses & savings in NPR, offline-first, built for students, freelancers & everyday Nepalis | Founder & Builder |
+| 📱 **Trip Turbo** | Travel tech app — 500K+ downloads, ICT Award 2025 winner | Lead, Growth & Marketing |
 
 ---
 
@@ -57,7 +50,6 @@ My most defining achievement: architecting the growth strategy that took Trip Tu
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ### Analytics & Data
@@ -66,20 +58,6 @@ My most defining achievement: architecting the growth strategy that took Trip Tu
 ![Data Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Ahrefs](https://img.shields.io/badge/Ahrefs-FF7043?style=flat-square)
 ![Semrush](https://img.shields.io/badge/SEMrush-FF642D?style=flat-square)
-
----
-
-## 🏆 Key Wins
-
-```
-📱  Trip Turbo App         → 500,000+ downloads | ICT Award 2025 (People's Choice)
-💰  Bhudki                 → Live on Google Play | Nepal's offline-first money management app
-🌐  bimalrp.com            → Ranking for top digital marketing keywords in Nepal
-🎬  Nepal Int'l Film Fest  → Global digital strategy for NIFF
-🏕️  Adventure World T&T    → International travel booking funnel
-🏍️  SAMRAT Bike Rentals    → Full digital sales funnel & booking system
-🎓  Nepal Film & Cultural  → Complete digital identity for NFCA
-```
 
 ---
 
