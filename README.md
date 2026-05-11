@@ -19,6 +19,7 @@
 I'm **Bimal Raj Paudel** — a self-taught, full-stack **Growth & Digital Strategist** based in **Kathmandu, Nepal**, with **9+ years** operating at the intersection of **data science, technical SEO, and high-conversion marketing**.
 
 I don't just *do marketing* — I **engineer growth systems** that compound over time and turn businesses into category leaders.
+
 ---
 
 ## 🚀 What I Build
@@ -27,23 +28,13 @@ I don't just *do marketing* — I **engineer growth systems** that compound over
 |---|---|---|
 | 🌐 **[bimalrp.com](https://bimalrp.com)** | Personal brand HQ — technical SEO | Founder & Builder |
 | 🛠️ **[WP Tracer](https://wptracer.com/)** | WordPress tools & resources platform | Founder (2021–Present) |
-| 📓 **[The Pro Notes](https://thrpronotes.com/)** | Digital marketing knowledge base | Founder (2018–Present) |
+| 📓 **[The Pro Notes](https://thepronotes.com/)** | Digital marketing knowledge base | Founder (2018–Present) |
 | 💰 **[Bhudki](https://play.google.com/store/apps/details?id=com.brp.bhudki)** | Nepal's personal money management app — track income, expenses & savings in NPR, offline-first, built for students, freelancers & everyday Nepalis | Founder & Builder |
 | 📱 **Trip Turbo** | Travel tech app — 500K+ downloads, ICT Award 2025 winner | Lead, Growth & Marketing |
 
 ---
 
 ## 🧠 Skill Stack
-
-### Growth & Marketing
-![SEO](https://img.shields.io/badge/Technical_SEO-FF6B35?style=flat-square)
-![Paid Ads](https://img.shields.io/badge/Paid_Ads_&_PPC-4285F4?style=flat-square&logo=google-ads&logoColor=white)
-![Meta Ads](https://img.shields.io/badge/Meta_Ads_&_CAPI-1877F2?style=flat-square&logo=facebook&logoColor=white)
-![GA4](https://img.shields.io/badge/GA4_Analytics-E37400?style=flat-square&logo=google-analytics&logoColor=white)
-![Content Marketing](https://img.shields.io/badge/Content_Marketing-00B4D8?style=flat-square)
-![Influencer](https://img.shields.io/badge/Influencer_Marketing-E040FB?style=flat-square)
-![GTM Strategy](https://img.shields.io/badge/Go--to--Market_Strategy-2ECC71?style=flat-square)
-![App Marketing](https://img.shields.io/badge/App_Marketing-FF4081?style=flat-square)
 
 ### Tech & Web
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
@@ -53,16 +44,17 @@ I don't just *do marketing* — I **engineer growth systems** that compound over
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ### Analytics & Data
-![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=flat-square&logo=google-analytics&logoColor=white)
+![GA4](https://img.shields.io/badge/GA4-E37400?style=flat-square&logo=google-analytics&logoColor=white)
 ![Search Console](https://img.shields.io/badge/Search_Console-4285F4?style=flat-square&logo=google&logoColor=white)
-![Data Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=google&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=google&logoColor=white)
+![Microsoft Clarity](https://img.shields.io/badge/Microsoft_Clarity-258FFA?style=flat-square&logo=microsoft&logoColor=white)
+![Meta Pixel & CAPI](https://img.shields.io/badge/Meta_Pixel_&_CAPI-1877F2?style=flat-square&logo=facebook&logoColor=white)
 ![Ahrefs](https://img.shields.io/badge/Ahrefs-FF7043?style=flat-square)
-![Semrush](https://img.shields.io/badge/SEMrush-FF642D?style=flat-square)
+![SEMrush](https://img.shields.io/badge/SEMrush-FF642D?style=flat-square)
 
 ---
 
 ## 📈 What I'm Working On
-
 
 - 💰 **[Bhudki](https://play.google.com/store/apps/details?id=com.brp.bhudki)** — Nepal's personal money management app (NPR, offline-first) — live on Play Store, actively growing
 - 📚 **Content taxonomy** — building topical authority clusters across marketing, analytics, WordPress, and growth strategy
