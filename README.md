@@ -2,7 +2,7 @@
 
 <img src="https://avatars.githubusercontent.com/u/280418360?v=4" width="120" style="border-radius: 50%;" alt="Bimal Raj Paudel" />
 
-# Bimal Raj Paudel — Growth & Digital Strategist
+# Bimal Raj Paudel — Digital Marketing Expert in Nepal
 
 **Engineering growth systems that scale businesses from zero to market leaders.**
 
@@ -16,7 +16,7 @@
 
 ## 👋 About Me
 
-I'm **Bimal Raj Paudel** — a self-taught, full-stack **Growth & Digital Strategist** based in **Kathmandu, Nepal**, with **9+ years** operating at the intersection of **data science, technical SEO, and high-conversion marketing**.
+I'm **Bimal Raj Paudel** — a self-taught, digital marketing expert in Nepal and a full-stack **Growth & Digital Strategist** based in **Kathmandu, Nepal**, with **9+ years** operating at the intersection of **data science, technical SEO, and high-conversion marketing**.
 
 I don't just *do marketing* — I **engineer growth systems** that compound over time and turn businesses into category leaders.
 
